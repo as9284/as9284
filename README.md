@@ -1,6 +1,6 @@
 # Hi, I'm Anthony
 
-> Frontend engineer · UI designer · building beautiful, accessible, and performant interfaces.
+> Frontend engineer · UI designer · Mobile developer · building beautiful, accessible, and performant interfaces.
 
 I'm passionate about the intersection of design and engineering — from component systems to full-stack apps. I have a bias toward clean abstractions, thoughtful UX, and modern minimalist design.
 
